@@ -1,0 +1,93 @@
+
+
+
+
+/* ---------- This is the beginning of my 377 FoCo Web Page Project ------------ */
+
+html, body {
+  height: 80%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+background-image: url("images/keyboard-bg.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+	
+	
+}
+
+
+.center {
+    width: 700px;
+	padding: 2%;
+    margin: 10px auto;
+	text-align: center;
+    border-radius: 30px;
+}
+
+   
+#logo {
+    margin-bottom: 1px;
+     border-radius: 30px;
+	text-align: center;
+}
+
+h1 {
+	font-family: canada-type-gibson,sans-serif;
+font-weight: 600;
+font-style: normal;
+	font-size: 2em;
+    margin: 0px auto 10px auto;
+    color: #fff;
+}
+
+h2 {
+	font-family: canada-type-gibson,sans-serif;
+font-weight: 600;
+font-style: normal;
+	font-size: 1.5em;
+    line-height: 1.4;
+    color: rgb(0, 0, 0);
+    padding: 0px 0px;
+    margin: 5px auto 25px auto;
+    background-color: #bdbec0;
+    border-style: outset ;
+    border-color:#75fac3;
+    border-width: medium;
+    
+ 
+}
+
+p {
+    font-family: canada-type-gibson,sans-serif;
+font-weight: 600;
+font-style: normal;
+font-size: 1em;
+    line-height: 1.4;
+    color: #fff;
+    padding: 0px 0px;
+    margin: 0px auto 25px auto;
+}
+
+.topnav {
+    background-color: #68a2b9;
+    overflow: hidden;
+}
+
+.topnav a{
+    float:right;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 5px 20px;
+    text-decoration: none;
+    font-size: 35px;
+}
+
+.topnav a:hover{
+    background-color: #faad75;
+    color:hsl(0, 0%, 100%);
+
+}
+
